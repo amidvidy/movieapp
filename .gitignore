@@ -25,3 +25,14 @@ proguard/
 
 # Log Files
 *.log
+
+# intelliJ cruft
+*.iml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+
+# damnit OSX
+.DS_Store
+/captures
+
